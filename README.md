@@ -1,6 +1,6 @@
 # npmdoc-validatorjs
 
-#### api documentation for  [validatorjs (v3.12.0)](https://github.com/skaterdav85/validatorjs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-validatorjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-validatorjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-validatorjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-validatorjs)
+#### basic api documentation for  [validatorjs (v3.12.0)](https://github.com/skaterdav85/validatorjs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-validatorjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-validatorjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-validatorjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-validatorjs)
 
 #### Validation library inspired by Laravel's Validator
 
@@ -105,7 +105,8 @@
         "test-node": "node node_modules/mocha/bin/mocha spec",
         "test-node:watch": "node node_modules/mocha/bin/mocha --watch spec"
     },
-    "version": "3.12.0"
+    "version": "3.12.0",
+    "bin": {}
 }
 ```
 
